@@ -58,7 +58,7 @@ outputs:
       use_protel_extensions: false
       # [string=''] Board variant to apply
       variant: ''
-    layers: [F.Cu, F.Mask, F.SilkS, B.Cu, B.Mask, B.SilkS, Edge.cuts]
+    layers: [F.Cu, F.Mask, F.SilkS, B.Cu, B.Mask, B.SilkS, Edge.Cuts]
 
 
   # Excellon drill format:
