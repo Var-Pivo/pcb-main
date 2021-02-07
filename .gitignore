@@ -1,0 +1,3 @@
+gerber/**
+*.kicad_pcb-bak
+*cache
