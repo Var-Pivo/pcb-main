@@ -1,3 +1,4 @@
 gerber/**
-*.kicad_pcb-bak
+*-bak
 *cache
+*.lib
