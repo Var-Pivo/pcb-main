@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: INTI-CMNB/KiBot@v0.7.0
+      - uses: nerdyscout/kicad-exports@v2.2
         with:
           config: kibot_config/jlcpcb.kibot.yaml
           board: '*.kicad_pcb'
